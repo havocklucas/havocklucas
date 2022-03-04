@@ -1,0 +1,15 @@
+this is a github practice 
+where i learning about how to gorw my skill on git 
+
+
+again this is going to be modify 
+
+this is a new change in a file 
+a new change here 
+
+
+THIS IS AGAIN A NEW CHANGE I AM MAKING ON DATE OF MARCH 03 
+
+change in 1_prac.txt
+
+this is a new line and checking how staging area work 

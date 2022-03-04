@@ -1,0 +1,7 @@
+this is a second file where i am practicing how it is working and all other 
+
+a new change
+
+this is also a new practice txt
+
+this is 2_pac.txt adding file to staging area 
